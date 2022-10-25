@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "start": "node tu-script-main.js"
+  },
   "name": "nuevoproyecto",
   "version": "1.0.0",
   "main": "node_modules/expo/AppEntry.js",
@@ -19,3 +22,4 @@
   },
   "private": true
 }
+
